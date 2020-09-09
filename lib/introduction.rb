@@ -5,7 +5,3 @@ def introduction(name, language)
 end
 
 introduction(Sophie, Ruby)
-
-
-
-  
